@@ -19,7 +19,7 @@ $(".eds #userresults .table.table-striped tr").each(function () {
  $(document).ready(function() {
 
 
-/*$("#selections-toolbar").appendTo('#facetcontainer');*/
+$("#selections-toolbar").appendTo('#facetcontainer');
 
 });
 
