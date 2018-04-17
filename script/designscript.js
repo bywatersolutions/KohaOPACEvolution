@@ -37,155 +37,74 @@ if (window.location.href.indexOf("https://library.aarome.org") > -1) {
   
  
 }
- 
 
-/*part expanded*/
-
-/*authors*/
-
+/* This seems to break facets
 $("#results #au_id ul").addClass("js-to_expand");
-
 $("#results #au_id ul").addClass("expandmore__to_expand");
-
 $('#results #au_id ul').attr('data-hidden', 'true');
 
-
-/*heading*/
-
-/*authors*/
-
 $("#results #facet-authors").addClass("js-expandmore");
-
-
 $('#results #facet-authors').attr('data-controls', 'expand_1');
-
 $('#results #facet-authors').attr('aria-expanded', 'false');
 
-/*holding branch*/
-
-
 $("#results #holdingbranch_id #facet-holding-libraries").addClass("js-expandmore");
-
-
 $('#results #holdingbranch_id #facet-holding-libraries').attr('data-controls', 'expand_1');
-
 $('#results #holdingbranch_id #facet-holding-libraries').attr('aria-expanded', 'false');
 
 $("#itype_id ul").addClass("js-to_expand");
 
-
-
 $("#holdingbranch_id ul").addClass("js-to_expand");
-
 $("#holdingbranch_id ul").addClass("expandmore__to_expand");
-
 $('#holdingbranch_id ul').attr('data-hidden', 'true');
 
-
-/*item types*/
-
-
 $("#results #itype_id h5").addClass("js-expandmore");
-
-
 $('#results #itype_id h5').attr('data-controls', 'expand_1');
-
 $('#results #itype_id h5').attr('aria-expanded', 'false');
 
-
-
 $("#itype_id ul").addClass("expandmore__to_expand");
-
 $('#itype_id ul').attr('data-hidden', 'true');
 
- /*titles */
- 
- $("#results #su-ut_id h5").addClass("js-expandmore");
-
-
+$("#results #su-ut_id h5").addClass("js-expandmore");
 $('#results #su-ut_id h5').attr('data-controls', 'expand_1');
-
 $('#results #su-ut_id h5').attr('aria-expanded', 'false');
 
- $("#su-ut_id ul").addClass("js-to_expand");
-
+$("#su-ut_id ul").addClass("js-to_expand");
 $("#su-ut_id ul").addClass("expandmore__to_expand");
-
 $('#su-ut_id ul').attr('data-hidden', 'true');
 
-
-/*Locations*/
-
-
-
 $("#results #location_id h5").addClass("js-expandmore");
-
-
 $('#results #location_id h5').attr('data-controls', 'expand_1');
-
 $('#results #location_id h5').attr('aria-expanded', 'false');
 
-
-
 $("#location_id ul").addClass("js-to_expand");
-
 $("#location_id ul").addClass("expandmore__to_expand");
-
 $('#location_id ul').attr('data-hidden', 'true');
 
-
-/*series*/
-
 $("#results #se_id h5").addClass("js-expandmore");
-
-
 $('#results #se_id h5').attr('data-controls', 'expand_1');
-
 $('#results #se_id h5').attr('aria-expanded', 'false');
 
-
-
 $("#se_id ul").addClass("js-to_expand");
-
 $("#se_id ul").addClass("expandmore__to_expand");
-
 $('#se_id ul').attr('data-hidden', 'true');
 
-/*places*/
-
 $("#results #su-geo_id h5").addClass("js-expandmore");
-
-
 $('#results #su-geo_id h5').attr('data-controls', 'expand_1');
-
 $('#results #su-geo_id h5').attr('aria-expanded', 'false');
 
-
 $("#su-geo_id ul").addClass("js-to_expand");
-
 $("#su-geo_id ul").addClass("expandmore__to_expand");
-
 $('#su-geo_id ul').attr('data-hidden', 'true');
 
-
-/*topics*/
-
 $("#results #su-to_id h5").addClass("js-expandmore");
-
 $('#results #su-to_id h5').attr('data-controls', 'expand_1');
-
 $('#results #su-to_id h5').attr('aria-expanded', 'false');
 
-
-
 $("#su-to_id ul").addClass("js-to_expand");
-
 $("#su-to_id ul").addClass("expandmore__to_expand");
-
 $('#su-to_id ul').attr('data-hidden', 'true');
 
-
-
+*/
 
 $('.bibliocol').each(function() {
 
