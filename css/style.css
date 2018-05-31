@@ -161,7 +161,7 @@ width: 92%;
 
 #toolbar select, #opac-main-search select, .toolbar select, select {
 
-    background:url("https://model.bywatersolutions.com/images/bc212cb8b3f772efee1a7e1265ea4611_arrow.png") no-repeat 90% 50% !important;
+    background:url("https://raw.githubusercontent.com/bywatersolutions/web-assets/master/sites/galadriel/bc212cb8b3f772efee1a7e1265ea4611_arrow.png") no-repeat 90% 50% !important;
 
 }
 
@@ -523,7 +523,7 @@ font-size: 1.19143rem;
     margin-left: 20px;
     margin-top: 10px;
     width: 100px;
-    background: url(https://model.bywatersolutions.com/images/fc1c4f67b9bd4f5cece26fa913f51fcb_book-back.png) no-repeat;
+    background: url(https://raw.githubusercontent.com/bywatersolutions/web-assets/master/sites/galadriel/fc1c4f67b9bd4f5cece26fa913f51fcb_book-back.png) no-repeat;
     min-height: 152px;
 }
 
@@ -2065,7 +2065,7 @@ padding-bottom: 20px;
 margin-left: 20px;
 margin-top: 10px;
 width: 100px;
-background: url(https://model.bywatersolutions.com/images/fc1c4f67b9bd4f5cece26fa913f51fcb_book-back.png) no-repeat;
+background: url(https://raw.githubusercontent.com/bywatersolutions/web-assets/master/sites/galadriel/fc1c4f67b9bd4f5cece26fa913f51fcb_book-back.png) no-repeat;
 min-height: 152px;
 
 }
@@ -2094,11 +2094,11 @@ background
 .expList p {    margin:0;    display:block;}
 .expList p:hover {    background-color:#121212;}.expList li {    line-height:140%;    text-indent:0px;    background-position: 1px 5px;    padding-left: 20px;    background-repeat: no-repeat;} /* Collapsed state for list element */
 .expList  .collapsed {
- background-image: url(https://model.bywatersolutions.com/images/0142dfef9cee0508f9779c53a95cadd9_shows2.png);
+ background-image: url(https://rawgit.com/bywatersolutions/web-assets/master/sites/galadriel/0142dfef9cee0508f9779c53a95cadd9_shows2.png);
 background-position: -3px -4px;
 }
 /* Expanded state for list element/* NOTE: This class must be located UNDER the collapsed one */
-.expList  .expanded {    background-image: url(https://model.bywatersolutions.com/images/7feca34fc1e8c64d172ff659dd62013f_hides2.png);
+.expList  .expanded {    background-image: url(https://rawgit.com/bywatersolutions/web-assets/master/sites/galadriel/0142dfef9cee0508f9779c53a95cadd9_shows2.png);
 background-position: -3px -4px;}
 
 a.title {
@@ -2286,7 +2286,7 @@ box-sizing: border-box;
     text-indent: .01px;
     text-overflow: '';
     margin-bottom: 0;
-    background:url("https://model.bywatersolutions.com/images/bc212cb8b3f772efee1a7e1265ea4611_arrow.png") no-repeat 90% 50%;
+    background:url("https://raw.githubusercontent.com/bywatersolutions/web-assets/master/sites/galadriel/bc212cb8b3f772efee1a7e1265ea4611_arrow.png") no-repeat 90% 50%;
 width:100% !important;
 margin-bottom:20px;
 
@@ -2467,7 +2467,7 @@ box-sizing: border-box;
     text-indent: .01px;
     text-overflow: '';
     margin-bottom: 0;
-    background:url("https://model.bywatersolutions.com/images/bc212cb8b3f772efee1a7e1265ea4611_arrow.png") no-repeat 90% 50%;
+    background:url("https://raw.githubusercontent.com/bywatersolutions/web-assets/master/sites/galadriel/bc212cb8b3f772efee1a7e1265ea4611_arrow.png") no-repeat 90% 50%;
 
 }
 
@@ -2601,7 +2601,7 @@ width: 100%;
        text-indent: .01px;
        text-overflow: '';
        margin-bottom: 0;
-       background:url("https://model.bywatersolutions.com/images/bc212cb8b3f772efee1a7e1265ea4611_arrow.png") no-repeat 90% 50%;
+       background:url("https://raw.githubusercontent.com/bywatersolutions/web-assets/master/sites/galadriel/bc212cb8b3f772efee1a7e1265ea4611_arrow.png") no-repeat 90% 50%;
 
      width: 95% !important;
 
@@ -2770,7 +2770,7 @@ box-sizing: border-box;
     text-indent: .01px;
     text-overflow: '';
     margin-bottom: 0;
-    background:url("https://model.bywatersolutions.com/images/bc212cb8b3f772efee1a7e1265ea4611_arrow.png") no-repeat 90% 50%;
+    background:url("https://raw.githubusercontent.com/bywatersolutions/web-assets/master/sites/galadriel/bc212cb8b3f772efee1a7e1265ea4611_arrow.png") no-repeat 90% 50%;
 
 }
 
@@ -3025,7 +3025,7 @@ box-sizing: border-box;
     text-indent: .01px;
     text-overflow: '';
     margin-bottom: 0;
-    background:url("https://model.bywatersolutions.com/images/bc212cb8b3f772efee1a7e1265ea4611_arrow.png") no-repeat 90% 50%;
+    background:url("https://raw.githubusercontent.com/bywatersolutions/web-assets/master/sites/galadriel/bc212cb8b3f772efee1a7e1265ea4611_arrow.png") no-repeat 90% 50%;
 
 }
 
@@ -3063,7 +3063,7 @@ box-sizing: border-box;
     text-indent: .01px;
     text-overflow: '';
     margin-bottom: 0;
-    background:url("https://model.bywatersolutions.com/images/bc212cb8b3f772efee1a7e1265ea4611_arrow.png") no-repeat 90% 50%;
+    background:url("https://raw.githubusercontent.com/bywatersolutions/web-assets/master/sites/galadriel/bc212cb8b3f772efee1a7e1265ea4611_arrow.png") no-repeat 90% 50%;
 
 }
 
@@ -3280,7 +3280,7 @@ box-sizing: border-box;
     text-indent: .01px;
     text-overflow: '';
     margin-bottom: 0;
-    background:url("https://model.bywatersolutions.com/images/bc212cb8b3f772efee1a7e1265ea4611_arrow.png") no-repeat 90% 50%;
+    background:url("https://raw.githubusercontent.com/bywatersolutions/web-assets/master/sites/galadriel/bc212cb8b3f772efee1a7e1265ea4611_arrow.png") no-repeat 90% 50%;
 
 }
 
